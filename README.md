@@ -1,0 +1,1 @@
+I will be praticing python basics in this repo.
